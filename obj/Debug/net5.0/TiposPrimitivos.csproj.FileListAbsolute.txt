@@ -1,0 +1,16 @@
+C:\Dev\TiposPrimitivos\bin\Debug\net5.0\TiposPrimitivos.exe
+C:\Dev\TiposPrimitivos\bin\Debug\net5.0\TiposPrimitivos.deps.json
+C:\Dev\TiposPrimitivos\bin\Debug\net5.0\TiposPrimitivos.runtimeconfig.json
+C:\Dev\TiposPrimitivos\bin\Debug\net5.0\TiposPrimitivos.runtimeconfig.dev.json
+C:\Dev\TiposPrimitivos\bin\Debug\net5.0\TiposPrimitivos.dll
+C:\Dev\TiposPrimitivos\bin\Debug\net5.0\TiposPrimitivos.pdb
+C:\Dev\TiposPrimitivos\obj\Debug\net5.0\TiposPrimitivos.csproj.AssemblyReference.cache
+C:\Dev\TiposPrimitivos\obj\Debug\net5.0\TiposPrimitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\TiposPrimitivos\obj\Debug\net5.0\TiposPrimitivos.AssemblyInfoInputs.cache
+C:\Dev\TiposPrimitivos\obj\Debug\net5.0\TiposPrimitivos.AssemblyInfo.cs
+C:\Dev\TiposPrimitivos\obj\Debug\net5.0\TiposPrimitivos.csproj.CoreCompileInputs.cache
+C:\Dev\TiposPrimitivos\obj\Debug\net5.0\TiposPrimitivos.dll
+C:\Dev\TiposPrimitivos\obj\Debug\net5.0\refint\TiposPrimitivos.dll
+C:\Dev\TiposPrimitivos\obj\Debug\net5.0\TiposPrimitivos.pdb
+C:\Dev\TiposPrimitivos\obj\Debug\net5.0\TiposPrimitivos.genruntimeconfig.cache
+C:\Dev\TiposPrimitivos\obj\Debug\net5.0\ref\TiposPrimitivos.dll
